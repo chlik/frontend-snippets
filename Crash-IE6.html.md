@@ -1,5 +1,6 @@
 In 2013, most people have finally upgraded from the horrible Internet Explorer 6 which gave nightmares to every front-end developper for years. But some persons are still using it. If you want to get rid of this prehistoric browser for good, here is a very funny code to include in your html pages.
 
 This code will crash IE6. Bam!
-
+```html
 <style>*{position:relative}</style><table><input></table>
+```
