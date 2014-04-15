@@ -1,3 +1,5 @@
+## cache.html
+If you do not want to cache the current page, you can use a proxy iframe page references.
 ```html
 <!DOCTYPE HTML>
 <<html manifest="/cache.manifest">
