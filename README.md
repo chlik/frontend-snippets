@@ -1,4 +1,4 @@
-css-js-snippet
-==============
+Front-end snippets
+==================
 
-Css hack, Js common function
+Collections of front-end code
