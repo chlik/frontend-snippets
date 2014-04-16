@@ -1,7 +1,7 @@
 ##Client-side fix:
 Tools  >  Internet Options  
->  'Settings' under Temporary Internet files  
->  Select 'Automatically'  >  OK
+  >  'Settings' under Temporary Internet files  
+  >  Select 'Automatically'  >  OK
 
 ##CSS FIX - Insert in your CSS:
 ```css
