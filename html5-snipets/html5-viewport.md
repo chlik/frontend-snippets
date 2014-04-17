@@ -18,6 +18,12 @@ target-densitydpi = [dpi_value | device-dpi | high-dpi | medium-dpi | low-dpi]
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 ```
 
+## Viewport.js
+Viewport is a component to ease viewport management. You can get the dimensions of the viewport and beyond, which can be quite helpful to perform some checks with JavaScript.
+
+https://github.com/pazguille/viewport
 
 ## Related
 Mozilla: https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag
+
+
