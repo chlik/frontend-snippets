@@ -2,6 +2,8 @@ CSS2 allows you to specify stylesheet for specific media type such as screen or 
 
 ## CSS3 Media Queries
 
+###Media features
+width, height, device-width, device-height, orientation, aspect-ratio, device-aspect-ratio, color, color-index, monochrome, , resolution, scan, grid. see http://www.w3.org/TR/css3-mediaqueries/
 ###Max Width
 The following CSS will apply if the viewing area is smaller than 600px.
 ```css
@@ -79,3 +81,8 @@ $(function() {
     });
 });
 ```
+
+## Referers
+* http://webdesignerwall.com/tutorials/css3-media-queries
+* http://www.w3.org/TR/CSS2/media.html
+* http://www.w3.org/TR/css3-mediaqueries/
