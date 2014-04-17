@@ -1,6 +1,5 @@
 
-
-## via media queries
+## via Media Queries
 ```css
 .img1 {
     background-image:url(img1-100x100.png);/* common display */
@@ -18,3 +17,11 @@
   }
 }
 ```
+
+
+## Related
+Optimizing Web Experiences for High Resolution Screens: http://bradfrostweb.com/blog/mobile/hi-res-optimization/
+Responsive Images Community Group: http://www.w3.org/community/respimg/
+Media Query & Asset Downloading Tests: http://timkadlec.com/2012/02/media-query-asset-downloading-tests/
+ResponsiveImages: http://responsiveimages.org/
+w3c: http://dev.w3.org/csswg/css-images/
