@@ -20,6 +20,8 @@ if (!Function.prototype.bind) {
                                aArgs.concat(Array.prototype.slice.call(arguments)));
         };
   
+    // fixed 'instanceof called on an object with an invalid prototype property'
+    // 'this' not sure has a prototype property
     fNOP.prototype = this.prototype || {};
     fBound.prototype = new fNOP();
   
