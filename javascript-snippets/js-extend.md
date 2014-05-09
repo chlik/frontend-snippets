@@ -71,5 +71,5 @@
 
 ## usage
 ```js
-obj1 = extend(true, {}, obj1, obj2);
+obj1 = utils.extend(true, {}, obj1, obj2);
 ```
