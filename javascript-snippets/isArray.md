@@ -16,20 +16,20 @@ typeof undefined // undefined
 typeof true // boolean
 typeof {} // object
 ```
-but:
+###but
 ```js
 typeof null // object
 typeof [] //object
 ```
 
-so?
+###so?
 ```js
 var arr = [];
 arr instanceof Array; // true
 arr.constructor == Array; // true
 ```
 
-but!
+###but!
 ```js
 var iframe = document.createElement('iframe');
 document.body.appendChild(iframe);
@@ -86,3 +86,7 @@ function __getClass(object){
     .match(/^\[object\s(.*)\]$/)[1];
 };
 ```
+
+###Referers
+http://perfectionkills.com/instanceof-considered-harmful-or-how-to-write-a-robust-isarray/
+https://github.com/kangax/protolicious/tree/master/experimental
